@@ -50,7 +50,6 @@ I’m especially interested in projects where AI can make software more useful, 
 
 ---
 
-## 🚀 What I Build
 
 ## 🎯 Professional Focus
 
