@@ -52,13 +52,32 @@ I’m especially interested in projects where AI can make software more useful, 
 
 ## 🚀 What I Build
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Intelligent Applications
-        ↓
-Full-Stack Systems
-        ↓
-Real-World Problem Solving
+## 🎯 Professional Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 Artificial Intelligence
+
+Building intelligent applications using AI to solve practical problems.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 Machine Learning
+
+Exploring data-driven models, prediction systems, and applied ML.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Intelligent Systems
+
+Developing software that combines AI, automation, and real-world workflows.
+
+</td>
+</tr>
+</table>
