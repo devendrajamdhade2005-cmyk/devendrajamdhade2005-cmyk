@@ -128,3 +128,23 @@ A Python-based project focused on developing a practical software solution with 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=devendrajamdhade2005-cmyk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrajamdhade2005-cmyk&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devendrajamdhade2005-cmyk&hide_border=true&theme=transparent" />
+
+</div>
+
