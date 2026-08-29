@@ -109,3 +109,22 @@ A Python-based project focused on developing a practical software solution with 
 </tr>
 </table>
 
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+### AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### Development & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
