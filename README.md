@@ -130,21 +130,20 @@ A Python-based project focused on developing a practical software solution with 
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=devendrajamdhade2005-cmyk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+<a href="https://github.com/devendrajamdhade2005-cmyk">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devendrajamdhade2005-cmyk&theme=github_dark" width="95%" />
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendrajamdhade2005-cmyk&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devendrajamdhade2005-cmyk&hide_border=true&theme=transparent" />
+<a href="https://github.com/devendrajamdhade2005-cmyk">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devendrajamdhade2005-cmyk&theme=github_dark" width="45%" />
+</a>
 
 </div>
-
