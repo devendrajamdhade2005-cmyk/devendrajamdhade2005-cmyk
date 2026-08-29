@@ -51,19 +51,63 @@ I’m especially interested in projects where AI can make software more useful, 
 ---
 
 
-## 🎯 Professional Focus
+---
+
+## 🚀 Featured AI/ML Projects
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%">
 
-### 🤖 Artificial Intelligence
+### 🤖 Agent-X-Hackethon
 
-Building intelligent applications using AI to solve practical problems.
+AI-focused hackathon project developed to explore a practical solution to a real-world problem.
+
+**Focus:** Artificial Intelligence • Problem Solving • Hackathon
+
+[View Project →](https://github.com/devendrajamdhade2005-cmyk/Agent-X-Hackethon)
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%">
+
+### 🧠 LearnSense-AI
+
+A multimodal learning gap detection and intervention system designed to support more effective learning.
+
+**Focus:** Multimodal AI • Machine Learning • EdTech
+
+[View Project →](https://github.com/devendrajamdhade2005-cmyk/LearnSense-AI)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 VahanIQ
+
+An AI-oriented project exploring intelligent, data-driven solutions for vehicle-related applications.
+
+**Focus:** AI • Python • Intelligent Systems
+
+[View Project →](https://github.com/devendrajamdhade2005-cmyk/VahanIQ)
+
+</td>
+
+<td width="50%">
+
+### 🔐 TexVault
+
+A Python-based project focused on developing a practical software solution with security and usability in mind.
+
+**Focus:** Python • Security • Software Development
+
+[View Project →](https://github.com/devendrajamdhade2005-cmyk/TexVault)
+
+</td>
+</tr>
+</table>
 
 ### 🧠 Machine Learning
 
