@@ -3,11 +3,9 @@
 <!--                GitHub Profile README                      -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,20,24&text=Devendra%20Jamdhade&fontSize=44&fontAlignY=36&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Development&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Building+Practical+AI+Solutions;Exploring+Generative+AI;Developing+Intelligent+Applications;Hackathon+Builder+%7C+Problem+Solver" alt="Typing animation" />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+AI-powered+solutions;Exploring+Machine+Learning+%26+Generative+AI;Developing+practical+full-stack+systems;Turning+ideas+into+real-world+projects;Learning%2C+building%2C+and+improving+every+day" alt="Typing SVG" />
 
