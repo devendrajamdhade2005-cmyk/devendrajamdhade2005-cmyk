@@ -109,18 +109,3 @@ A Python-based project focused on developing a practical software solution with 
 </tr>
 </table>
 
-### 🧠 Machine Learning
-
-Exploring data-driven models, prediction systems, and applied ML.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Intelligent Systems
-
-Developing software that combines AI, automation, and real-world workflows.
-
-</td>
-</tr>
-</table>
